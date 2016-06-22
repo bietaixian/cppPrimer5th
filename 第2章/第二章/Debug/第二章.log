@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/11/14 11:40:33。
+     1>项目“G:\CPP projects\C++ primer 5th\第二章\第二章\第二章.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\VS2012\VC\bin\CL.exe /c /IC:\Users\admin\Desktop\VisualStudio2012 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 2.41.3.cpp
+         2.41.3.cpp
+       Link:
+         H:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\CPP projects\C++ primer 5th\第二章\Debug\第二章.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\CPP projects\C++ primer 5th\第二章\Debug\第二章.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\CPP projects\C++ primer 5th\第二章\Debug\第二章.lib" /MACHINE:X86 Debug\2.10.obj
+         Debug\2.14.obj
+         Debug\2.17.obj
+         Debug\2.18.obj
+         Debug\2.19.obj
+         Debug\2.35.obj
+         Debug\2.36.obj
+         Debug\2.37.obj
+         Debug\2.39.obj
+         Debug\2.4.obj
+         Debug\2.40.obj
+         Debug\2.41.1.obj
+         Debug\2.41.2.obj
+         Debug\2.41.3.obj
+         Debug\2.8.obj
+         Debug\2.9.obj
+         第二章.vcxproj -> G:\CPP projects\C++ primer 5th\第二章\Debug\第二章.exe
+     1>已完成生成项目“G:\CPP projects\C++ primer 5th\第二章\第二章\第二章.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.13

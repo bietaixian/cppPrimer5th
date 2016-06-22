@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="7.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.27.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.28 AND 7.29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.30.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.34.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.36.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.35.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.37.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.38.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.39.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.40.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.41.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.44.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.45.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.46.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.47.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.48.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.49.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.50.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.52.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.54.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.55.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.56.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.58.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CP5_7_02.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_04.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_05.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_06.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_09.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_12.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_15.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_21.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_22.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_23.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_24.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_26.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_27.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_29.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_31.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_32.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_33.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_41.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_43.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_50.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_53.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CP5_7_57.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (第5章.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  5.25.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  5.9.cpp
+  5.8.cpp
+  5.7.cpp
+  5.6.cpp
+  5.5.cpp
+  5.4.cpp
+  5.3.cpp
+  5.2.cpp
+  5.13.cpp
+  5.12.cpp
+  5.11.cpp
+  5.10.cpp
+  5.1.cpp
+  第5章.vcxproj -> G:\CPP projects\C++ primer 5th\第5章\Debug\第五章.exe

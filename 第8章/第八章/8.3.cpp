@@ -1,0 +1,1 @@
+//输入一个错误状态循环就会终止，如badbit,failbit,eofbit

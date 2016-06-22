@@ -1,0 +1,1 @@
+//无法从string向Sales_data转换。

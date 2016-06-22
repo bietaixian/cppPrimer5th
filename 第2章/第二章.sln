@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第二章", "第二章\第二章.vcxproj", "{55F15E8A-4416-4EB5-B37C-C6805B113C05}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1", "..\第一章\1.1\1.1.vcxproj", "{C188F08B-F43B-4618-89D4-367AC80C1A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F15E8A-4416-4EB5-B37C-C6805B113C05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55F15E8A-4416-4EB5-B37C-C6805B113C05}.Debug|Win32.Build.0 = Debug|Win32
+		{55F15E8A-4416-4EB5-B37C-C6805B113C05}.Release|Win32.ActiveCfg = Release|Win32
+		{55F15E8A-4416-4EB5-B37C-C6805B113C05}.Release|Win32.Build.0 = Release|Win32
+		{C188F08B-F43B-4618-89D4-367AC80C1A24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C188F08B-F43B-4618-89D4-367AC80C1A24}.Debug|Win32.Build.0 = Debug|Win32
+		{C188F08B-F43B-4618-89D4-367AC80C1A24}.Release|Win32.ActiveCfg = Release|Win32
+		{C188F08B-F43B-4618-89D4-367AC80C1A24}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
